@@ -1,5 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  height: auto;
+  width: 300px;
+}
+
 .header1 {
   background-color: lightseagreen;
   color: aliceblue;
   text-align: center;
+}
+
+.header2 {
+  text-align: left;
+  background-color: orange;
+  color: black;
+}
+
+.header3 {
+  background-color: palegreen;
+  color: red;
 }
